@@ -1,3 +1,5 @@
+NOTICE: Said project was a collaboration. Please refer to Commits · cs128-2021c_final-project-rileydavidkevin.pdf for full list of commits in original repo.
+
 # final-project-rileydavidkevin
 final-project-rileydavidkevin created by GitHub Classroom
 
